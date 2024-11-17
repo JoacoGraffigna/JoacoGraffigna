@@ -45,11 +45,11 @@
     <img alt="Spartacus" src="https://img.shields.io/badge/Spartacus%20(SAP%20Composable Storefront)%20-%2300A1E0.svg?style=plastic&logo=sap&logoColor=white">
   </a>
   &emsp; 
-		&emsp; 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
   </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
+		&emsp; 
+	<a href="https://www.mysql.com/" target="_blank"> 
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?style=plastic&logo=MySQL&logoColor=white">
   </a>
 	  &emsp; 
