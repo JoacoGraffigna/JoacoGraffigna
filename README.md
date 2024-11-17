@@ -48,6 +48,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?style=plastic&logo=git&logoColor=white">
   </a>
+	&emsp; 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
   </a>
@@ -95,6 +96,5 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
-	  &emsp; 
 </p>
 
