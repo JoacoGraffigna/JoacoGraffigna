@@ -44,25 +44,21 @@
   <a href="https://sap.github.io/spartacus-docs/" target="_blank"> 
     <img alt="Spartacus" src="https://img.shields.io/badge/Spartacus%20(SAP%20Composable Storefront)%20-%2300A1E0.svg?style=plastic&logo=sap&logoColor=white">
   </a>
-  &emsp; 
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
-  </a>
-		&emsp; 
-	<a href="https://www.mysql.com/" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?style=plastic&logo=MySQL&logoColor=white">
-  </a>
-	  &emsp; 
-  <a href="https://sass-lang.com/" target="_blank"> 
-    <img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CC6699.svg?style=plastic&logo=sass&logoColor=white">
-  </a>
-	  &emsp; 
+		  &emsp; 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   </a>
 	  &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
+  &emsp; 
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
+  </a>
+	  &emsp; 
+  <a href="https://sass-lang.com/" target="_blank"> 
+    <img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CC6699.svg?style=plastic&logo=sass&logoColor=white">
   </a>
 	  &emsp; 
   <a href="https://www.java.com" target="_blank"> 
@@ -77,16 +73,16 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
 	  &emsp; 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-	  &emsp; 
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
   </a>
 	  &emsp; 
   <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?style=plastic&logo=git&logoColor=white">
+  </a>
+			&emsp; 
+	<a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?style=plastic&logo=MySQL&logoColor=white">
   </a>
 	  &emsp; 
   <a href="https://www.mysql.com/" target="_blank"> 
