@@ -22,10 +22,6 @@ hello! I'm Joaquín, I'm 21 years old. I am a Computer Engineering student at th
 <span>
 Currently, I work as a Full Stack Developer at SAP Commerce Cloud, where I specialize in the implementation of e-commerce solutions. My work focuses on optimizing the platform's performance, with the aim of improving the user experience and guaranteeing its operational efficiency.
 </span>
-
-- FullStack web dev.
-- Software Engineering Student.
-- Always `learning new things`.
 <br>
 
 
