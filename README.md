@@ -15,6 +15,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+<span>
+hello! I'm Joaquín, I'm 21 years old. I am a Computer Engineering student at the National University of the Northwest in the city of Buenos Aires. Since I was little, my passion for development drives me to constantly improve my skills and learn new technologies. I am a proactive person, always looking for challenges that allow me to grow professionally and personally.
+</span>
+<br><br>
+<span>
+Currently, I work as a Full Stack Developer at SAP Commerce Cloud, where I specialize in the implementation of e-commerce solutions. My work focuses on optimizing the platform's performance, with the aim of improving the user experience and guaranteeing its operational efficiency.
+</span>
 
 - FullStack web dev.
 - Software Engineering Student.
