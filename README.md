@@ -36,7 +36,19 @@
 
 
 <p align="center"> 
+		  &emsp; 
+  <a href="https://angular.io/" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+  </a>
+		  &emsp; 
+  <a href="https://sap.github.io/spartacus-docs/" target="_blank"> 
+    <img alt="Spartacus" src="https://img.shields.io/badge/Spartacus%20(SAP%20Composable Storefront)%20-%2300A1E0.svg?style=plastic&logo=sap&logoColor=white">
+  </a>
   &emsp; 
+		&emsp; 
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
+  </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?style=plastic&logo=MySQL&logoColor=white">
   </a>
@@ -45,25 +57,10 @@
     <img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CC6699.svg?style=plastic&logo=sass&logoColor=white">
   </a>
 	  &emsp; 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?style=plastic&logo=git&logoColor=white">
-  </a>
-	&emsp; 
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
-  </a>
-	  &emsp; 
-  <a href="https://sap.github.io/spartacus-docs/" target="_blank"> 
-    <img alt="Spartacus" src="https://img.shields.io/badge/Spartacus%20(SAP%20Composable)%20-%2300A1E0.svg?style=plastic&logo=sap&logoColor=white">
-  </a>
-	  &emsp; 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   </a>
-	  &emsp; 
-  <a href="https://angular.io/" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
-  </a>
+
 	  &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
@@ -96,5 +93,6 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
+  
 </p>
 
