@@ -35,7 +35,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 
 
 
-<p align="center"> 
+<p align="center" style="font-size: 0;"> 
 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?style=plastic&logo=MySQL&logoColor=white">
