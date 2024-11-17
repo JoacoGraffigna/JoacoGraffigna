@@ -34,62 +34,56 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 
 
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-<p align="center"> 
 		  &emsp; 
-  <a href="https://angular.io/" target="_blank"> 
+  <a href="https://angular.io/" target="_blank" style="text-decoration: none;" > 
     <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
   </a>
 		  &emsp; 
-  <a href="https://sap.github.io/spartacus-docs/" target="_blank"> 
+  <a href="https://sap.github.io/spartacus-docs/" target="_blank" style="text-decoration: none;"> 
     <img alt="Spartacus" src="https://img.shields.io/badge/Spartacus%20(SAP%20Composable Storefront)%20-%2300A1E0.svg?style=plastic&logo=sap&logoColor=white">
   </a>
 		  &emsp; 
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   </a>
 	  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
   &emsp; 
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" style="text-decoration: none;"> 
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
   </a>
 	  &emsp; 
-  <a href="https://sass-lang.com/" target="_blank"> 
+  <a href="https://sass-lang.com/" target="_blank" style="text-decoration: none;"> 
     <img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CC6699.svg?style=plastic&logo=sass&logoColor=white">
   </a>
 	  &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com" target="_blank" style="text-decoration: none;"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
 	  &emsp; 
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 	  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;"> 
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
 	  &emsp; 
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
   </a>
 	  &emsp; 
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;"> 
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?style=plastic&logo=git&logoColor=white">
   </a>
 			&emsp; 
-	<a href="https://www.mysql.com/" target="_blank"> 
+	<a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;"> 
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?style=plastic&logo=MySQL&logoColor=white">
   </a>
 	  &emsp; 
-  <a href="https://www.mysql.com/" target="_blank"> 
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;"> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
   
