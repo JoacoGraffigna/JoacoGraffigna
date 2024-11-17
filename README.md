@@ -33,8 +33,7 @@
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 
-
-		  &emsp; 
+<p align="center"> 
   <a href="https://angular.io/" target="_blank" style="text-decoration: none;" > 
     <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
   </a>
