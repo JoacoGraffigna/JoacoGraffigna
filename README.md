@@ -34,7 +34,11 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> 
 
-
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 <p align="center"> 
 		  &emsp; 
   <a href="https://angular.io/" target="_blank"> 
